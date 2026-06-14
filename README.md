@@ -63,11 +63,11 @@ fashion-mnist-classifier/
 └── README.md
 ```
 
-<h2>Project Workflow</h2>
+## Project Workflow
 
-<p align="center">
-  <img src="images/flowchart.png" alt="FashionMNIST Project Workflow" width="900">
-</p>
+![FashionMNIST Workflow](images/flowchart.png)
+
+The diagram below illustrates the complete pipeline from data loading and preprocessing through CNN training, evaluation, and prediction.
 
 ## Running the Project
 
