@@ -65,7 +65,7 @@ fashion-mnist-classifier/
 
 ## Project Workflow
 
-![FashionMNIST Workflow](images/flowchart.png)
+![FashionMNIST Workflow](images/Flowchart.png)
 
 The diagram below illustrates the complete pipeline from data loading and preprocessing through CNN training, evaluation, and prediction.
 
